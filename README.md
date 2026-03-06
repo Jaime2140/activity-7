@@ -6,4 +6,4 @@ A small platform designed for a robotics school to help teachers manage their cl
 ## ER Diagram
 Here is the Entity-Relationship diagram showing the structure of the database:
 
-![ER Diagram](./diagrama.png)
+![ER Diagram](./imagen_2026-03-05_184955724.png)
